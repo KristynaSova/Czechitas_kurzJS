@@ -1,5 +1,6 @@
 import './ukol1.js';
 import './ukol2.js';
+import './ukol3.js';
 
 /* let jmeno = 'Kristyna';
 let vek = 37;
@@ -31,6 +32,3 @@ if (vel < 18) {
 }
 
 */
-
-let odpoved = prompt('Ahoj, jak se jmenuejes?');
-console.log(odpoved);
