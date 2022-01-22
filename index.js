@@ -2,7 +2,7 @@
 import './ukol2.js';
 import './ukol3.js';*/
 
-import './ukol4.js';
+import './ukol5.js';
 
 /* let jmeno = 'Kristyna';
 let vek = 37;
