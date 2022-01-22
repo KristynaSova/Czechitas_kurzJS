@@ -1,6 +1,7 @@
-import './ukol1.js';
+/*import './ukol1.js';
 import './ukol2.js';
-import './ukol3.js';
+import './ukol3.js';*/
+
 import './ukol4.js';
 
 /* let jmeno = 'Kristyna';
