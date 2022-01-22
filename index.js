@@ -32,7 +32,7 @@ if (vel < 18) {
   console.log('jsi plnolety')
 }
 
-*/
+
 //for cyklus
 // while cyklus..
 
@@ -41,3 +41,4 @@ while (i < 6) {
   console.log('ahoj');
   i = i + 1;
 }
+*/
