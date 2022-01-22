@@ -34,3 +34,9 @@ if (vel < 18) {
 */
 //for cyklus
 // while cyklus..
+
+let i = 1;
+while (i < 6) {
+  console.log('ahoj');
+  i = i + 1;
+}
