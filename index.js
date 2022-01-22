@@ -32,3 +32,5 @@ if (vel < 18) {
 }
 
 */
+//for cyklus
+// while cyklus..
